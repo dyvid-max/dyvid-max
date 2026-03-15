@@ -2,18 +2,6 @@
 
 ###
 
-<p align="left">💻 Junior Developer | 🎨 Graphic Designer | 🌱 Lifelong Learner<br><br>I am passionate about software development and design. Currently learning and building projects with Java while also working as a Website and Design staff at ACELEDA University of Business.<br><br>I enjoy creating useful systems and clean designs that help people and organizations work better.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🎓 Studying Computer Science and Engineering<br><br>💼 Website & Design at ACELEDA University of Business<br><br>💻 Currently learning Java Development<br><br>🎨 1+ years experience in Graphic Design<br><br>🌱 Interested in Software Development, DevOps, and System Design</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -79,6 +67,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
 </div>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">💻 Junior Developer | 🎨 Graphic Designer | 🌱 Lifelong Learner<br><br>I am passionate about software development and design. Currently learning and building projects with Java while also working as a Website and Design staff at ACELEDA University of Business.<br><br>I enjoy creating useful systems and clean designs that help people and organizations work better.</p>
+
+###
+
+<p align="left">🎓 Studying Computer Science and Engineering<br><br>💼 Website & Design at ACELEDA University of Business<br><br>💻 Currently learning Java Development<br><br>🎨 1+ years experience in Graphic Design<br><br>🌱 Interested in Software Development, DevOps, and System Design</p>
 
 ###
 
