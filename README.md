@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">FronEnd</h2>
+<h2 align="left">FrontEnd</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">💻 Junior Developer | 🎨 Graphic Designer | 🌱 Lifelong Learner<br><br>I am passionate about software development and design. Currently learning and building projects with Java while also working as a Website and Design staff at ACELEDA University of Business.<br><br>I enjoy creating useful systems and clean designs that help people and organizations work better.</p>
+<p align="left">Junior Developer | Graphic Designer | Lifelong Learner<br><br>I am passionate about software development and design. Currently learning and building projects with Java while also working as a Website and Design staff at ACELEDA University of Business.<br><br>I enjoy creating useful systems and clean designs that help people and organizations work better.</p>
 
 ###
 
